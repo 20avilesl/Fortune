@@ -36,7 +36,7 @@ const getEnergy = () => {
         return animal = energyAnimal[8];
         break;
         default:
-            return ("unknown!!!")
+            return ("unknown!!")
     }
 return energyAnimal
 }
